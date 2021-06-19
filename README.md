@@ -1,7 +1,7 @@
 # simpleMavenJunit
 testing simple Junit in Java code with Maven
 
-##To Compile the Code
+##To Compile the Code and you can add other commands as well 
 $mvn compile
 
 ## To run the test cases of Junit
